@@ -6,7 +6,10 @@
 - [ ] create a POD with a Deployment
 
 ## POD Lifecycles and Probes
-...
+
+- [ ] configuring liveness probe
+- [ ] configuring readiness probe
+- [ ] configuring startup probe
 
 ## POD patterns
 
